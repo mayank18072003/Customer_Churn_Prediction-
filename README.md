@@ -7,11 +7,7 @@ A machine learning project to predict whether a customer will churn based on the
 
 ---
 
-## 📝 Description
-
-This project focuses on developing a machine learning-based solution to predict customer churn in a telecom company. By analyzing customer demographics, service usage, contract details, and other behavioral data, the model helps identify customers who are most likely to leave the service. The insights generated through this model can assist businesses in designing proactive retention strategies, improving customer satisfaction, and reducing revenue loss.
-
-The notebook walks through the end-to-end process:
+## Project Table of contents:
 - Data cleaning and preprocessing
 - Exploratory data analysis (EDA)
 - Feature engineering
