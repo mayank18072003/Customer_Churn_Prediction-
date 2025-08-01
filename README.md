@@ -36,9 +36,13 @@ Customer churn is one of the biggest challenges faced by subscription-based busi
 ## 🛠️ Tech Stack
 
 -Programming Language: Python 
+
 -Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 -Modeling: Decision Tree, Random Forest, XGBoost.
+
 -Visualization: Seaborn, Matplotlib
+
 -Development Tools: Jupyter Notebook
 
 ---
@@ -46,7 +50,9 @@ Customer churn is one of the biggest challenges faced by subscription-based busi
 ## 📦 Dataset
 
 Source: [Kaggle link: Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 Features: 20+ variables including tenure, MonthlyCharges, Contract, InternetService, etc.
+
 Target: Churn (Yes/No)
 
 ---
@@ -54,8 +60,11 @@ Target: Churn (Yes/No)
 ## 🧪 Evaluation Metrics
 
 -Confusion Matrix
+
 -Accuracy, Precision, Recall, F1-score
+
 -ROC-AUC Curve
+
 -Feature Importance Plot
 
 ---
@@ -67,5 +76,9 @@ The Customer Churn Prediction model developed in this project demonstrates how m
 #Key findings:
 
 -Contract type, tenure, monthly charges, and add-on services were strong predictors of churn.
+
 -Customers with monthly contracts and no additional support services had the highest churn rates.
+
 -Predictive modeling enables early identification of at-risk customers, allowing companies to implement targeted interventions and reduce churn.
+
+---
