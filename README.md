@@ -57,9 +57,9 @@ Target: Churn (Yes/No)
 
 -Confusion Matrix
 
--Accuracy, Precision, Recall, F1-score
+-Accuracy Score
 
--ROC-AUC Curve
+-Classification Report
 
 -Feature Importance Plot
 
